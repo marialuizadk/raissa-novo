@@ -1,9 +1,8 @@
 .imgcobra{
-   padding-left: 30px;
+   width: 50px;
 
 }
    .imggato{
-      position:relative;
-      top:right;
-      left: 30px;
-   }
+   width: 50px;
+
+   
